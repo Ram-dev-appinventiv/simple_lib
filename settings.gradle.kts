@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Simplelib"
 include(":app")
- 
+include(":filters")
